@@ -39,7 +39,7 @@ setTimeout(typeWriter,40);
 
 }
 
-const startDate = new Date("2024-01-01");
+const startDate = new Date("2026-01-31");
 
 function updateCounter(){
 
